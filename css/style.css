@@ -145,7 +145,7 @@ visibility: visible;
 
 .home{
     height: 100vh;
-background-image: url(../Images/www.jpg);
+background-image: url(../images/www.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -423,7 +423,7 @@ border-radius: 50%;
 }
 .numbrs{
     position: relative;
-background-image: url(../Images/background2.webp);
+background-image: url(../images/background2.webp);
 background-size: cover;
 background-attachment: fixed;
 margin-top: 300px;
@@ -512,7 +512,7 @@ margin: 0 5%;
 
 .testmonial{
 position: relative;
-background-image:url(../Images/background3.webp) ;
+background-image:url(../images/background3.webp) ;
 height: 400px;
 background-size: cover;
 background-attachment: fixed;
